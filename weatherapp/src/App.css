@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+#root{ 
+  background-color: black !important;
+  height: 100%;
+}
+
+h3{
+  text-align:center;
+}
